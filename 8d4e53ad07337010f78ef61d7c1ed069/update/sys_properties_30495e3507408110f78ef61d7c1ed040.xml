@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>API Key for data.gov.in integration&#13;
+Used in AQI Integration</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_257554_aqi.data.gov.in.api.key</name>
+        <read_roles/>
+        <suffix>data.gov.in.api.key</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-26 17:23:12</sys_created_on>
+        <sys_id>30495e3507408110f78ef61d7c1ed040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_257554_aqi.data.gov.in.api.key</sys_name>
+        <sys_package display_value="National Air Quality Index" source="x_257554_aqi">8d4e53ad07337010f78ef61d7c1ed069</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="National Air Quality Index">8d4e53ad07337010f78ef61d7c1ed069</sys_scope>
+        <sys_update_name>sys_properties_30495e3507408110f78ef61d7c1ed040</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-26 17:23:12</sys_updated_on>
+        <type>string</type>
+        <value>579b464db66ec23bdd00000156a0a871e79044bc6641f428bd8c5df6</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=30495e3507408110f78ef61d7c1ed040"/>
+</record_update>
