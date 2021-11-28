@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="AQI Raw Data" max_length="40" name="x_257554_aqi_aqi_raw_data" sizeclass="31616" type="collection">
+        <element label="Level" max_length="40" name="level" type="float"/>
+        <element label="Payload" max_length="8000" name="payload" read_only="true" type="simple_name_values"/>
+        <element choice="3" label="Pollutant" max_length="40" name="pollutant" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CO" value="co"/>
+                <element inactive_on_update="false" label="NH3" value="nh3"/>
+                <element inactive_on_update="false" label="NO2" value="no2"/>
+                <element inactive_on_update="false" label="OZONE" value="ozone"/>
+                <element inactive_on_update="false" label="PM10" value="pm10"/>
+                <element inactive_on_update="false" label="PM2.5" value="pm2.5"/>
+                <element inactive_on_update="false" label="SO2" value="so2"/>
+            </choice>
+        </element>
+        <element display="true" label="Station" max_length="32" name="station" reference="cmn_location" type="reference"/>
+        <element label="Timestamp" max_length="40" name="timestamp" type="glide_date_time"/>
+        <index name="index">
+            <element name="station"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Station-wise Average Pollutants" language="en" table="x_257554_aqi_station_wise_average_pollutants">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Station-wise Average Pollutants</label>
+            <language>en</language>
+            <name>x_257554_aqi_station_wise_average_pollutants</name>
+            <plural>Station-wise Average Pollutants</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-27 17:34:51</sys_created_on>
+            <sys_id>cac5e7420740c110f78ef61d7c1ed0bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Station-wise Average Pollutants</sys_name>
+            <sys_package display_value="National Air Quality Index" source="x_257554_aqi">8d4e53ad07337010f78ef61d7c1ed069</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="National Air Quality Index">8d4e53ad07337010f78ef61d7c1ed069</sys_scope>
+            <sys_update_name>sys_documentation_x_257554_aqi_station_wise_average_pollutants__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-27 17:34:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

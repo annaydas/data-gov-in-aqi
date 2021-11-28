@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>AQI Raw Data</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_257554_aqi_aqi_raw_data</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-27 07:52:52</sys_created_on>
+        <sys_id>d3eed54607888110f78ef61d7c1ed068</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AQI Raw Data</sys_name>
+        <sys_package display_value="National Air Quality Index" source="x_257554_aqi">8d4e53ad07337010f78ef61d7c1ed069</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="National Air Quality Index">8d4e53ad07337010f78ef61d7c1ed069</sys_scope>
+        <sys_update_name>sys_db_object_d3eed54607888110f78ef61d7c1ed068</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-27 07:52:52</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_257554_aqi.aqi_raw_data_user" name="x_257554_aqi.aqi_raw_data_user">74906d4607888110f78ef61d7c1ed02d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

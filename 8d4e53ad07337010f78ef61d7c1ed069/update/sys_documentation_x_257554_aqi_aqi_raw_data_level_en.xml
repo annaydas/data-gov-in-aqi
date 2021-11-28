@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="level" label="Level" language="en" table="x_257554_aqi_aqi_raw_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>level</element>
+            <help/>
+            <hint/>
+            <label>Level</label>
+            <language>en</language>
+            <name>x_257554_aqi_aqi_raw_data</name>
+            <plural>Levels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-28 12:22:19</sys_created_on>
+            <sys_id>6dd7ebda074cc110f78ef61d7c1ed071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Level</sys_name>
+            <sys_package display_value="National Air Quality Index" source="x_257554_aqi">8d4e53ad07337010f78ef61d7c1ed069</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="National Air Quality Index">8d4e53ad07337010f78ef61d7c1ed069</sys_scope>
+            <sys_update_name>sys_documentation_x_257554_aqi_aqi_raw_data_level_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-28 12:22:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

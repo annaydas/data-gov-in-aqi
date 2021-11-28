@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Import Sub Indices Decision Matrixes" max_length="40" name="x_257554_aqi_import_sub_indices_decision_matrixes" sizeclass="42" type="collection">
+        <element attributes="import_attribute_name=Cmax" label="Cmax" max_length="40" name="u_cmax" type="integer"/>
+        <element attributes="import_attribute_name=Cmin" label="Cmin" max_length="40" name="u_cmin" type="integer"/>
+        <element attributes="import_attribute_name=Imax" label="Imax" max_length="40" name="u_imax" type="integer"/>
+        <element attributes="import_attribute_name=Imin" label="Imin" max_length="40" name="u_imin" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Pollutant" label="Pollutant" max_length="40" name="u_pollutant" type="string"/>
+    </element>
+</database>
